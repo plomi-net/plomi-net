@@ -27,11 +27,11 @@
 ### 🚀 Featured Projects  
 Here are some of the key projects I've worked on:
 
-📌 **Flutter:** – A room booking app that allows users to reserve and share meeting rooms via Google Calendar.  
-📌 **Python:** – A monitoring plugin to integrate Elasticsearch data into CheckMK Monitoring.  
-📌 **PHP:** – Advanced integrations for ERP, CRM, and mail services.  
-📌 **Bash:** – Automated deployments and server provisioning with shell scripts.  
-📌 **C++:** – Fun projects with ESP-based processors integrated into HomeAssistant.  
+📌 **Flutter:** A room booking app that allows users to reserve and share meeting rooms via Google Calendar.  
+📌 **Python:** A monitoring plugin to integrate Elasticsearch data into CheckMK Monitoring.  
+📌 **PHP:** Advanced integrations for ERP, CRM, and mail services.  
+📌 **Bash:** Automated deployments and server provisioning with shell scripts.  
+📌 **C++:** Fun projects with ESP-based processors integrated into HomeAssistant.  
 
 <br />
 
